@@ -6,3 +6,4 @@ I started my journey into Data Structures and Algorithms using Python Programmin
 
 
 #Day - 1: Introduction
+#Day - 2: Conditional Statements
